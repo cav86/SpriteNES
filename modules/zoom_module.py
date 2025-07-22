@@ -1,0 +1,1 @@
+# Funciones relacionadas con el zoom de la imagen

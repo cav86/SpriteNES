@@ -1,0 +1,1 @@
+# Carga de imagen, borrado de fondo, exportación

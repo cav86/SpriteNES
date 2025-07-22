@@ -1,0 +1,1 @@
+# Paleta de la NES y funciones de mapeo

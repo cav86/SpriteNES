@@ -1,0 +1,1 @@
+# Funciones para detectar y manipular sprites

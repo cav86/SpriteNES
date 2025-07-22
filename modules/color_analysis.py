@@ -1,0 +1,1 @@
+# Funciones para análisis de color y selección NES
